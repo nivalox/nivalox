@@ -5,7 +5,7 @@ Hey! I'm **nivalos**, a developer working on a lot of projects, experimenting wi
 
 ## Projects
 
-- **Bee** **(World's first `B` compiler & successor that's not C)**
+- **Bee** **(World's first `B` compiler & successor that's not `C`)**
 - **Lithium.js**
 - **CorkScrew**
 - And more...
