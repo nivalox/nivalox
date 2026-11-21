@@ -1,18 +1,19 @@
-# nivalox
-### aka nivalos
+# nivalos
+### github: nivalox
 
-Hey! I'm **nivalos**, a developer working on a lot of projects, experimenting with programming languages, and building things.
+Developer building tools, compilers, and whatever else I get curious about.
 
 ## Projects
 
-- **Bee** **(World's first `B` compiler & successor that's not `C`)**
-- **Lithium.js**
-- **CorkScrew**
-- And more...
+- **Bee**: a modern compiler for the `B` language, and a successor to it that isn't `C`
+- **Lithium.js**: web proxy framework (UV/Scramjet)
+- **CorkScrew**: First Rokori Android IDE & Executor
 
 ## Languages & Technologies
 
-`B` · `C` · `JavaScript` · `Python` · `LuaU` · `HTML` · `CSS`
+**Systems:** `B` · `C`
+**Scripting:** `JavaScript` · `Python` · `LuaU`
+**Web:** `HTML` · `CSS`
 
 ---
 
