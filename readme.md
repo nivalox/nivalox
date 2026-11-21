@@ -1,7 +1,7 @@
 # nivalox
 ### aka nivalos
 
-Hey! I'm **nivalos**, a developer working on alot of projects, experimenting with programming languages, and building things.
+Hey! I'm **nivalos**, a developer working on a lot of projects, experimenting with programming languages, and building things.
 
 ## Projects
 
