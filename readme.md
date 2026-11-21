@@ -12,7 +12,9 @@ Developer building tools, compilers, and whatever else I get curious about.
 ## Languages & Technologies
 
 **Systems:** `B` · `C`
+
 **Scripting:** `JavaScript` · `Python` · `LuaU`
+
 **Web:** `HTML` · `CSS`
 
 ---
