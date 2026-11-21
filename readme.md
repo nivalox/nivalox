@@ -1,5 +1,19 @@
-# nivalox (aka nivalos)
+# nivalox
+### aka nivalos
 
-### I'm nivalos, I work on projects like CorkScrew, Bee, Lithium.js & more.
+Hey! I'm **nivalos**, a developer working on various projects, experimenting with programming languages, and building things.
 
-## Languages I know: `B`, `C`, `JS`, `Python`, `LuaU`, `HTML` and `CSS`
+## Projects
+
+- **CorkScrew**
+- **Bee**
+- **Lithium.js**
+- And more...
+
+## Languages & Technologies
+
+`B` · `C` · `JavaScript` · `Python` · `LuaU` · `HTML` · `CSS`
+
+---
+
+*Building things, crying, and wanting to quit*
